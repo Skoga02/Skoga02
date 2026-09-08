@@ -10,8 +10,6 @@ I’m currently studying Data Engineering at Stockholms Tekniska Institut (STI),
 - Data Modeling
 - Backend & API Development
 
-`SQL` `Python` `Docker` `Azure` `Terraform` `Databricks` `Snowflake`
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
